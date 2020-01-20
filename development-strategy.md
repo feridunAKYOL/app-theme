@@ -12,6 +12,6 @@
 |**About page**|**As a Web developer** I need to add _About page_ |about page added|some extra CSS comments added|
 |**Services Page**|**As a Web developer** I need to add the _services page_|service page added|nothing changed|
 |**Contact**|**As a Web developer** I should to add _contact page_|some form added|added some features for the form|
-|**responsive**|As a Web developer,** I can use the web page in all my devices  |nothing changed|some features for responsiveness|
+|**responsive**|**As a Web developer,** I can use the web page in all my devices  |nothing changed|some features for responsiveness|
 
 
